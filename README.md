@@ -1,7 +1,7 @@
 # BBSS
 
 The `BBSS` R package provides fast variational inference for Bayesian blind source 
-separation of fMRI data.
+separation of fMRI data. This package is currently experimental and under development.
 
 ------------------------------------------------------------------------
 
