@@ -16,7 +16,7 @@ The analysis can be carried out via the following steps:
 5. Run the Bayesian blind source separation approach
 6. Output the results to Nifti files
 
-The following example is based on data which can be downloaded from: XXX
+The following example is based on data which can be downloaded from: https://github.com/JoshuaLukemire/BBSS-Tutorial-Data
 
 I've downloaded the data to: /Users/joshlukemire/Documents/Research/cbis/rembraindt_project/BBSS_tutorial_data/data and will be using this path for the remainder of this example. I'm also going to assign my output directory to 
 
