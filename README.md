@@ -18,7 +18,7 @@ The analysis can be carried out via the following steps:
 
 The following example is based on data which can be downloaded from: https://github.com/JoshuaLukemire/BBSS-Tutorial-Data
 
-I've downloaded the data to: /Users/joshlukemire/Documents/Research/cbis/rembraindt_project/BBSS_tutorial_data/data and will be using this path for the remainder of this example. I'm also going to assign my output directory to 
+I've downloaded the data to: /Users/joshlukemire/Documents/Research/cbis/rembraindt_project/BBSS_tutorial_data/data and will be using this path for the remainder of this example. I'm also going to assign my output directory to /Users/joshlukemire/Documents/Research/cbis/rembraindt_project/BBSS_tutorial_data/output.
 
 ### 1. Formatting the clinical and demographic information
 
