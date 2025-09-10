@@ -198,6 +198,6 @@ GitHub with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("JoshuaLukemire/BBSS")
+devtools::install_github("Emory-CBIS/BBSS")
 ```
 
