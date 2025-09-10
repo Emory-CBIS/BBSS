@@ -1,0 +1,17 @@
+Package: BBSS
+Type: Package
+Title: Bayesian Blind Source Separation
+Version: 1.0
+Date: 2025-02-07
+Author: Joshua Lukemire
+Maintainer: Joshua Lukemire <joshua.lukemire@emory.edu>
+Description: This package implements covariate-adjusted Bayesian blind source separation approaches for cross-sectional and longitudinal data, with the option to also control for site effects. This current version of the package is still in development.
+License: GPL-3
+Encoding: UTF-8
+Imports: Rcpp (>= 1.0.13-1)
+LinkingTo: Rcpp, RcppEigen
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+VignetteBuilder: knitr
+Config/testthat/edition: 3
